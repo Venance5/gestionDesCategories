@@ -8,11 +8,11 @@
 		<version>3.3.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>univrouen.fr</groupId>
-	<artifactId>GestionCategories</artifactId>
+	<groupId>univ-rouen.fr</groupId>
+	<artifactId>uefullstack</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>GestionCategories</name>
-	<description>Gestion des catégories: projet TP1 UE FullStack</description>
+	<name>uefullstack</name>
+	<description>Projet de gestion de catégories</description>
 	<url/>
 	<licenses>
 		<license/>

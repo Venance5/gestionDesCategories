@@ -1,13 +1,13 @@
-package univrouen.fr.GestionCategories;
+package univ_rouen.fr.uefullstack;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class GestionCategoriesApplication {
+public class UefullstackApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(GestionCategoriesApplication.class, args);
+		SpringApplication.run(UefullstackApplication.class, args);
 	}
 
 }

@@ -1,10 +1,10 @@
-package univrouen.fr.GestionCategories;
+package univ_rouen.fr.uefullstack;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class GestionCategoriesApplicationTests {
+class UefullstackApplicationTests {
 
 	@Test
 	void contextLoads() {
